@@ -51,7 +51,7 @@ html {
 html,
 body {
   height: 100%;
-  overflow: auto;
+  overflow: scroll;
 }
 
 body {
@@ -422,7 +422,7 @@ dd {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
-  overflow: auto;
+  overflow: scroll;
 }
 
 .video-container iframe,
@@ -1309,7 +1309,7 @@ input::-moz-focus-inner {
   max-width: 1400px;
   padding-top: 10rem;
   position: relative;
-  overflow: auto;
+  overflow: scroll;
 }
 
 .home-content__text p {
