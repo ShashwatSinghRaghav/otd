@@ -51,7 +51,7 @@ html {
 html,
 body {
   height: 100%;
-  overflow: scroll;
+  overflow: auto;
 }
 
 body {
@@ -422,7 +422,7 @@ dd {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .video-container iframe,
@@ -1309,7 +1309,7 @@ input::-moz-focus-inner {
   max-width: 1400px;
   padding-top: 10rem;
   position: relative;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .home-content__text p {
@@ -1416,7 +1416,7 @@ input::-moz-focus-inner {
 
 .home-content__counter .days {
   font-family: "metropolis-extralight", sans-serif;
-  font-size: 17.5rem;
+  font-size: 9rem;
   letter-spacing: -0.5rem;
   padding-right: 6rem;
   margin-top: -0.9rem;
