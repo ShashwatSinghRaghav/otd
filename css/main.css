@@ -422,7 +422,7 @@ dd {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .video-container iframe,
@@ -1309,7 +1309,7 @@ input::-moz-focus-inner {
   max-width: 1400px;
   padding-top: 10rem;
   position: relative;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .home-content__text p {
