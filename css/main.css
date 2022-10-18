@@ -49,7 +49,6 @@ html {
 }
 
 html,
-/* prevent horizontal scrolling */
 body {
   /* height: 100%;  */
   overflow: hidden;
