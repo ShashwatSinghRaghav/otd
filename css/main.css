@@ -50,8 +50,8 @@ html {
 
 html,
 body {
-  /* height: 100%;  */
-  overflow: scroll;
+  height: 100%;
+  overflow: auto;
 }
 
 body {
